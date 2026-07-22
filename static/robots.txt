@@ -1,3 +1,2 @@
 User-agent: *
 Allow: /
-Sitemap: https://cristianporco.it/app/convertitore-di-file-json-in-xml-con-validazione-xsd-opzionale/sitemap.xml
